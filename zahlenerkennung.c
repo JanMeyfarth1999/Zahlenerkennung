@@ -13,17 +13,17 @@ int main() {
 
         
 
-        if(zahl_a == zahl_b && zahl_b == zahl_c) {
+        if (zahl_a == zahl_b && zahl_b == zahl_c) {
             printf("Alle Zahlen sind gleich: %d\n", zahl_a);
 
         }
 
-        else if(zahl_a > zahl_b && zahl_a > zahl_c) {
+        else if (zahl_a > zahl_b && zahl_a > zahl_c) {
             printf("%d\n", zahl_a);
 
         }
                                       
-        else if(zahl_b > zahl_a && zahl_b > zahl_c) {
+        else if (zahl_b > zahl_a && zahl_b > zahl_c) {
             printf("%d\n", zahl_b);
 
         }
